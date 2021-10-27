@@ -1,0 +1,31 @@
+Doctor List In Bangladesh
+
+>> Here we gathered every type of doctor’s list. You can choose your desired doctor.
+
+View Doctors information:
+Dr_ID	DR_Name	Age	Bloodgroup	    Gender	 Specialist	    Phone_no       	Time	         City	       Days
+Dr_01	Sohel	26	  B+	         Male	Cardiologist	01734254565   12 a.m - 4 p.m	Sylhet	     Mon-Wed
+Dr_02	Aadi	23	  A+	         Male	Cardiologist	01835663737   12 a.m - 4 p.m	Habiganj     Mon-Thu
+Dr_03	Sumon	28	  B+	         Male	Neurologist	    01726666626   11 a.m - 5 p.m	Sylhet	     Sat-Wed
+Dr_04	Niloy	28	  B+	         Male	Medicine	    01923663727    8 a.m - 2 p.m	Dhaka	     Mon-Fri
+Dr_05	Reshma	29	  B+	        Female	Cardiologist	01363567268    7 a.m - 1 p.m	Moulvibazar  Thu-Mon
+Dr_06	Ashim	27	  O+	         Male	Neurologist	    01402636882   11 a.m - 5 p.m	Comilla	     Mon-Wed
+Dr_07	Asif	25	  A+	         Male	Orthopedic	    01482862782   12 a.m - 4 p.m	Comilla	     Sun-Wed
+Dr_08	Ashikur	31	  A-	         Male	Orthopedic	    01826672665    9 a.m - 2 p.m	Sylhet	     Mon-Wed
+Dr_09	Asma	29	  A+	        Female	Cardiologist	01792927279    4 p.m - 8 p.m	Dhaka	     Sun-Wed
+Dr_10	Anik	23	  A+	         Male	Neurologist	    01966688826   10 p.m - 1 a.m	Sylhet	     Sun-Thu
+Dr_11	Ankit	23	  A+	         Male	Neurologist	    01966758826   10 p.m - 1 a.m	Sylhet	     Sun-Thu
+Dr_13	Rick	23	  B+	         Male	Neurologist  	01466678856   10 p.m - 2 a.m	Dhaka	     Mon-Wed
+Dr_14	Myke	26	  O+	         Male	Cardiologist	01422677856   10 p.m - 2 a.m	Dhaka	     Mon-Wed
+Dr_15	Sam 	24	  A-	         Male	Medicine	    01399978856   10 a.m - 1 p.m	Dhaka	     Mon-Thu
+Dr_16	Siam	28	  B+	         Male	Neurologist  	01467548856    9 a.m - 12p.m	Sylhet	     Mon-Wed
+Dr_17	Saima	24	  A-	        FeMale	Medicine	    01399979876   10 a.m - 2 p.m	Dhaka	     Sat-Wed
+Dr_18	Sami	24	  A-	         Male	Medicine	    01395478856    9 a.m - 12 p.m	Sylhet	     Sat-Wed
+Dr_19	Anup	25	  B+	         Male	Orthopedic	    01395478856    9 a.m - 12 p.m	Sylhet	     Mon-Fri
+Dr_20	Ratul	30	  O+	         Male	Cardiologist	01395543686   11 a.m - 5 p.m	Sylhet	     Sat-Wed
+
+
+
+
+***Thank You…. Visit Again
+
